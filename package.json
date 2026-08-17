@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather application built with Vite",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Weslei",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
